@@ -1,0 +1,2 @@
+This upload consists of the example codes for the management of the database(sqlite3) using the Python3 programming language.
+The mbox.txt file consists of the data, using which the operations are performed.
